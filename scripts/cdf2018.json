@@ -1,0 +1,218 @@
+{
+   "name":"CHAMPIONNAT FRANCOPHONE 2018",
+   "date":"2018-12-15",
+   "nb_players":118,
+   "nb_rounds":6,
+   "topcut":16,
+   "type":"NATIONAL",
+   "results":[
+      {
+         "rank":1,
+         "player":{
+            "first_name":"Romain",
+            "last_name":"Picard"
+         },
+         "team":"Team Buu",
+         "decklist_cardgame":2123,
+         "deck":{
+            "name":"Hercule / Démigra SCR",
+            "leader":"TB2-001"
+         }
+      },
+      {
+         "rank":2,
+         "player":{
+            "first_name":"Baptiste",
+            "last_name":"Rigal"
+         },
+         "team":"",
+         "decklist_cardgame":2108,
+         "deck":{
+            "name":"Trunks / Storm",
+            "leader":"BT2-035"
+         }
+      },
+      {
+         "rank":3,
+         "player":{
+            "first_name":"Etienne",
+            "last_name":"Winckler"
+         },
+         "team":"Team Beau Jeu",
+         "decklist_cardgame":"",
+         "deck":{
+            "name":"",
+            "leader":"TB1-073"
+         }
+      },
+      {
+         "rank":4,
+         "player":{
+            "first_name":"Matthieu",
+            "last_name":"Cornillon"
+         },
+         "team":"Team Beau Jeu",
+         "decklist_cardgame":1879,
+         "deck":{
+            "name":"Hercule / Goku & Oob SCR",
+            "leader":"TB2-001"
+         }
+      },
+      {
+         "rank":5,
+         "player":{
+            "first_name":"Hakim",
+            "last_name":"Payet"
+         },
+         "team":"",
+         "decklist_cardgame":2097,
+         "deck":{
+            "name":"Hirudegarn / Storm",
+            "leader":"BT4-024"
+         }
+      },
+      {
+         "rank":6,
+         "player":{
+            "first_name":"Guillaume",
+            "last_name":"Andreani"
+         },
+         "team":"Les boules de dragons mancelles",
+         "decklist_cardgame":2197,
+         "deck":{
+            "name":"Android / Cell chain",
+            "leader":"BT2-070"
+         }
+      },
+      {
+         "rank":7,
+         "player":{
+            "first_name":"Nicolas",
+            "last_name":"Mancini"
+         },
+         "team":"",
+         "decklist_cardgame":2125,
+         "deck":{
+            "name":"Pan",
+            "leader":"BT3-001"
+         }
+      },
+      {
+         "rank":8,
+         "player":{
+            "first_name":"Steven",
+            "last_name":"Tissier"
+         },
+         "team":"",
+         "decklist_cardgame":"",
+         "deck":{
+            "name":"",
+            "leader":"BT2-035"
+         }
+      },
+      {
+         "rank":9,
+         "player":{
+            "first_name":"Pierre",
+            "last_name":"Galindo"
+         },
+         "team":"",
+         "decklist_cardgame":2159,
+         "deck":{
+            "name":"Hirudegarn / Storm",
+            "leader":"BT4-024"
+         }
+      },
+      {
+         "rank":10,
+         "player":{
+            "first_name":"Matthieu",
+            "last_name":"Berthier"
+         },
+         "team":"Team Beau Jeu",
+         "decklist_cardgame":1878,
+         "deck":{
+            "name":"Hirudegarn / Hand Control",
+            "leader":"BT4-024"
+         }
+      },
+      {
+         "rank":11,
+         "player":{
+            "first_name":"Cédric",
+            "last_name":"Bobenrieth"
+         },
+         "team":"",
+         "decklist_cardgame":2096,
+         "deck":{
+            "name":"Golden Freezer Aggro",
+            "leader":"BT1-083"
+         }
+      },
+      {
+         "rank":12,
+         "player":{
+            "first_name":"Antoine",
+            "last_name":"Edou"
+         },
+         "team":"Team Buu",
+         "decklist_cardgame":2107,
+         "deck":{
+            "name":"Hercule / Démigra SCR",
+            "leader":"TB2-001"
+         }
+      },
+      {
+         "rank":13,
+         "player":{
+            "first_name":"Rémi",
+            "last_name":"Alexandre"
+         },
+         "team":"Les boules de dragons mancelles",
+         "decklist_cardgame":2196,
+         "deck":{
+            "name":"Présentateur",
+            "leader":"TB2-065"
+         }
+      },
+      {
+         "rank":14,
+         "player":{
+            "first_name":"Jonathan",
+            "last_name":"Valentin"
+         },
+         "team":"Team Popo",
+         "decklist_cardgame":2124,
+         "deck":{
+            "name":"Présentateur",
+            "leader":"TB2-065"
+         }
+      },
+      {
+         "rank":15,
+         "player":{
+            "first_name":"Caomhan",
+            "last_name":"Reid"
+         },
+         "team":"",
+         "decklist_cardgame":"",
+         "deck":{
+            "name":"",
+            "leader":"BT4-024"
+         }
+      },
+      {
+         "rank":16,
+         "player":{
+            "first_name":"Adbelkader",
+            "last_name":"Saharaoui"
+         },
+         "team":"",
+         "decklist_cardgame":2158,
+         "deck":{
+            "name":"Hercule / Démigra SCR",
+            "leader":"TB2-001"
+         }
+      }
+   ]
+}
